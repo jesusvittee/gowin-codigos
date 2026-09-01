@@ -1,0 +1,37 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Mon Aug 31 19:45:30 2026
+
+//Source file index table:
+//file0 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Proyect_01/src/proy01.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+l9iLqI02q4mhHbxjn8s0gSlYWNwPRVIzehcTM2KcwkdGh8tp5+d+SMxkktgUJMnpYEqSG9OzyqR0
+AHQRdbQYblxm8ayfjUMdlyQbYXosy0pFNuuaxhkkpudyhvmfbXtBGSf1XCn7+m2R5ly4tENby2sX
+bxE6ijeSVKT6Mvf3ZCVyVQ3Blp3E4dgJz8lc0gWHsIKEGF89ZH6bk5D8p/Q6Gz2RTL1oUoZypSvL
+2QrFoN1P3BIVqexjiC3J/dtK3YjtyryaOMKMYFF4P4JsXzuBl/xPvRY0y6ItUX7RvPeNzS+ofONt
+KbFEWoWJaOCPmdo9IH5nwVB9BM1HOqexdIpTbg==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=448)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+VFaLa8KKttju6TDnj+AEhNAB6zrAfe7kjH7wd6s54tpYEz5QqO6TLzoqqKvTIqGvMFD9027bwTBv
+uiPmqzxNgMCFu8H/M0TPunGj2UZT5pboefz2HjO7eMXTsZxMzIxyQKacTa98pea8Aret4VCKdM71
+//67unA9DNvjHBM4+f0MGgtahgjrcvl3PFI2VPW+bs5EhwPk5JFLx9Kco5beVXs4iAfdTiWHKvpf
+Byhch+Bs5fs+/8xccNwDXjrn61eDu1/8lLYtbGUB/zjwheKBAstYlF3to1Vx6K1hs0l+J4RMvsqN
+ZqrbVyA6Jqg+85wMPUFceyuSz4p3A0SZet2E1U7MqF0ISpLqGZMp80V7AToQKfxypYjlrmedSOYc
+/tUPWVY9nPRoS8Z2UQpxDxC0OChZwYOur6Xv1eLO2Dlx/iCjnrznYc7+rvZdbmuwx+pFrByEXv3S
+3DhNra+7uAwSS/2PIcvf6lzslHdHBMUGmLiPLrTzG17n1c8Dmh1hTyw+NoSfMbChDWn0Mz08eMJw
+ZlsiHIok9WFWcSzQJ41vCge6sx7O23ZZwdEIdX4gTuX988YkWDtc1MPKka83uaEWqQ==
+`pragma protect end_protected

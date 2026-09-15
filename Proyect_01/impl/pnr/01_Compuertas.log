@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\gwsynthesis\01_Compuertas.vg"
+Parsing netlist file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\gwsynthesis\01_Compuertas.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\src\01_Compuertas.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\pnr\01_Compuertas.power.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\pnr\01_Compuertas.pin.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\pnr\01_Compuertas.rpt.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\pnr\01_Compuertas.rpt.txt" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\02_Compuertas\impl\pnr\01_Compuertas.tr.html" completed
+Thu Sep 10 18:32:08 2026
+

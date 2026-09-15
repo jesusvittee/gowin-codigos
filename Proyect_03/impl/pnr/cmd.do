@@ -1,0 +1,17 @@
+-d C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyect_03\impl\gwsynthesis\Proyect_03.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyect_03\src\Proyect_03.cst
+-cfg C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyect_03\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000

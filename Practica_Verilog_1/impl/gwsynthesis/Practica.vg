@@ -1,0 +1,57 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Mon Sep 14 23:05:13 2026
+
+//Source file index table:
+//file0 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Practica_Verilog_1/src/001-practica.v"
+//file1 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Practica_Verilog_1/src/002-practica.v"
+//file2 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Practica_Verilog_1/src/003-practica.v"
+//file3 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Practica_Verilog_1/src/004-practica.v"
+//file4 "\C:/Users/nicol/OneDrive/Documentos/AGOST\ \ DIC\ 2026/ARQ\ COMPU/Proyectos\ En\ Gowin/Practica_Verilog_1/src/005-practica.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+f20YtydycHzAPTuzwr4RZ/hTCURtp7/erEfUmt30bYf6u9h2KZLPm5i4LuMT8yHHGpJ3qXLjz5IQ
+q6Utn7R84tEOwFYNh7Lvcre9wZW2+r1Almt6C+gkEMAkYcI2jrHnodYwOscnjbXkqa5qA6IZufDQ
+Nz3xrQ/sCHjJMjQAETcS7ZYJav6RAEBStstWk1HB7/u/TQw+OISNTStIrSIkir9LW618qy1wJxzd
+M1l+x0g31AOKN7hRve2jTZiqFkbTIVkfSJTcO2bsH5SgFluGrAtrPeDhDdOY1vt1fYGWI63jydVm
+wOplRzqYGcEi6Pd0E+c4Kc+JBLvjO6jRY4hRTQ==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=1344)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+DE50spvlKWJbdzwR0clpXTvB90KxlSZn4KhgRENDhsFeCyHv9Hqt5WSFhBJB6iErlwJEZXKusu6F
+v/dappIidUWGTYsJK70vBJcySlKCOEAqsEJ/gRZu+PD9+zctHnIEizT+axooNYZT/MiStcvaTudY
+Ks8ijmeHeJm44c9/IejxYW2+FNjTapkViq9jsVcCOpbtkDdZLooieCpqBy4zMuA9DSDGxopO4qOP
+bQa+NyefEDIB5j3ibkesQPV19IOp1ifMJwSTkolW0ESV+Fmw7YsbYo5KD38f+XC0MvJSkd+a69xM
+QpZ4DWQbDwSo0L/FbZoNG1RAlNfjsOxddw/eKMtn7dEwYWaCCFrOXBy1bnjF1He1T0RWDlhsDip2
+85mDU0qu8Mi6N+Gt9hqXmoUk4K5peAhqF/zDpfc5ZDj+mmX2SNBMIL+aCKgV9KEtjOiGW3I/bhLt
+bvG9zcT5GFi5zGFjgh7v142m4d4j1HjRBeCeOvR3XqWKg4+TJmlzRWYPRGZjT3OUXuhMnYxRJP5j
+fPKZOuF18/Z7EzbmjYGAW3Lb+evnQSCeM3i03PEh1o3sCVx313zSoNFXuZG1dSkdYxrrKfJSflL+
+9MU8vspwXlTJUHQfAZMX6jUZB78TqK5N6w+DNa9lpp9SkR0tlWsT9Oq2h5u1i+A7H4cRz/OAzgmD
+cY2gQV3EaVccmuhZeq9jtlVhQc7sCiiGG8iZthZsuoo8VgHmfm/4opmfhpZ6GslWyX9qSrsOOGh3
+R01KvcZX/VEJNZ4tucztusBFnRO4x5Yq8jPxsueVL5yOKw8nSuI/daR9cDnmXT7mRDIx6cb4MLDk
+d6wN8j0GlqUpD9VxNTw/6hVniaC4tRdMf0YiktPhO5St8Bs1AMRFuKK6YvIXw5o8aH3Jk2QrqtXj
+wvNACt0n15pVXu0kK/G4Q7jBeexOjMH0Ckvp2HQHqvRHAzmGwSV3Fc9PXrd3SpuKualswyp7+s5T
+ZW7jSzI9OARcOsLHLkk6kRyFixRuf3hnec8pfO3Y7rF9dVKABHf3DwlPurPxC9Rq5vS1YKn6N5sp
+99GlhYqd4gawS44xqmqFaZxvUrl8ZmG8a92T438LmC+tOThdKxy04Cpxiau5k46yBNM2oNfL9c2G
+steZdg9Em1npxzJdSkH9eDAeMEnVjyeZv4MFwXnR5LODofKCwGu1lJFbA9WveE89IxB2YgXnh+O+
+0ur0MJEOMKEUPe5jVzQrVHDOf1F42JicyqVZN+1oHXgfYd5t8gNZJi63y6LihteHbuugAv7N6ipy
+/a99MZuYMj8fKEKlWlql/oBaJPjOS05bGbH9J3Tp6xlNDSKnFrao2vLgfq78Zxxg/8UO5KrNIDVY
+tzhHI4TNc1dfmhUbguRCTSsuUDeoyY4qQ6RET53izSxsFh76kMrQ/8pI0WOvWWoJ4ZJH1WpkMNsa
+eHYQMrvekF8LXexdsxIW+cvGmkNhyrcT68vVs04VXl1mHgT/GTJLWvwI4ZIpZLh9m/eTWXqhnPSE
+kz/YMRGkq9yd+GBexdi2bdlxXUixoUyWVPn7fzsHyqmBjjaWPrXcSWOBZQoiQ6JdYMRAxlRsqAmi
+y+AlSgOLu/RtWDtCps2DcAVja33A2kdmg5v3Me+BfdRFwJ+woTP1UKvl+WfXaWRjiD9b3OESx/YB
+Fhi34eZ1GiDPg1Mq4ZzQjhTJY1XEimap3oVtQ3k+uc6EmzyfWkJBsJeeDsvIxXn4BOu6gAp2C0iY
+Y/JFqpZmaKFFWy4nRIEvQTNXgy3BcTPzuJEE0k6NEhd3
+`pragma protect end_protected

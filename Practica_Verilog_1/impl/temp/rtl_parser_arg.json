@@ -1,0 +1,33 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/src/001-practica.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/src/002-practica.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/src/003-practica.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/src/004-practica.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/src/005-practica.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Practica_Verilog_1/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

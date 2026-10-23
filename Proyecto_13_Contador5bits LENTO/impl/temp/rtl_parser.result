@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/top.v",
+  "InstLine" : 2,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/top.v",
+    "InstLine" : 14,
+    "InstName" : "instanceDivFrec01",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/clkdiv.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "clkdiv"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/top.v",
+    "InstLine" : 21,
+    "InstName" : "instanceCont5bits",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_12_Contador5bits FAKE/src/contador5bits.v",
+    "ModuleLine" : 15,
+    "ModuleName" : "contador5bits"
+   }
+  ]
+ }
+]

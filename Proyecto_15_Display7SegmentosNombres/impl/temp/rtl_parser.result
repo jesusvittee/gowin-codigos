@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/top.v",
+    "InstLine" : 14,
+    "InstName" : "instanceDivFrec01",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/clkdiv.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "clkdiv"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/top.v",
+    "InstLine" : 21,
+    "InstName" : "instanceContador4bits",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/contador4bits.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "contador4bits"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/top.v",
+    "InstLine" : 28,
+    "InstName" : "instanceDisplay7Segmentos",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15_Display7SegmentosNombres/src/Display7Segmentos.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Display7Segmentos"
+   }
+  ]
+ }
+]

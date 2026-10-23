@@ -1,0 +1,44 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\alu.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\control_unit.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\cpu_top.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\div_frec.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\instruction_decoder.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\instruction_memory.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\io_ports.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\program_counter.v'
+Analyzing Verilog file 'C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\register_file.v'
+Compiling module 'cpu_top'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\cpu_top.v":1)
+Compiling module 'program_counter'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\program_counter.v":1)
+WARN  (EX3670) : Actual bit length 4 differs from formal bit length 6 for port 'target_addr'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\cpu_top.v":57)
+Compiling module 'instruction_memory'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\instruction_memory.v":1)
+Compiling module 'instruction_decoder'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\instruction_decoder.v":1)
+Compiling module 'control_unit'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\control_unit.v":1)
+Compiling module 'register_file'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\register_file.v":1)
+Compiling module 'alu'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\alu.v":1)
+Compiling module 'io_ports'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\io_ports.v":1)
+Compiling module 'divfrec'("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\div_frec.v":24)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 28("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\div_frec.v":39)
+NOTE  (EX0101) : Current top module is "cpu_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "alu" instantiated to "u_alu" is swept in optimizing("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\cpu_top.v":108)
+WARN  (NL0002) : The module "instruction_decoder" instantiated to "u_decoder" is swept in optimizing("C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\src\cpu_top.v":74)
+[95%] Generate netlist file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\impl\gwsynthesis\microprocesador4bits.vg" completed
+[100%] Generate report file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Proyectos En Gowin\Proyecto_16_microprocesador4bits FUNCIONANDO\impl\gwsynthesis\microprocesador4bits_syn.rpt.html" completed
+GowinSynthesis finish

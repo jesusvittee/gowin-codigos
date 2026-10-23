@@ -1,0 +1,45 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\alu.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\control_unit.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\divfrec.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\instruction_decoder.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\instruction_memory.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\io_ports.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\program_counter.v'
+Analyzing Verilog file 'C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\register_file.v'
+Compiling module 'cpu_top'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v":1)
+Compiling module 'program_counter'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\program_counter.v":1)
+WARN  (EX3670) : Actual bit length 4 differs from formal bit length 6 for port 'target_addr'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v":57)
+Compiling module 'instruction_memory'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\instruction_memory.v":1)
+Compiling module 'instruction_decoder'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\instruction_decoder.v":1)
+Compiling module 'control_unit'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\control_unit.v":1)
+Compiling module 'register_file'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\register_file.v":1)
+Compiling module 'alu'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\alu.v":1)
+Compiling module 'io_ports'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\io_ports.v":1)
+Compiling module 'divfrec'("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\divfrec.v":1)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 28("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\divfrec.v":16)
+NOTE  (EX0101) : Current top module is "cpu_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "alu" instantiated to "u_alu" is swept in optimizing("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v":108)
+WARN  (NL0002) : The module "instruction_decoder" instantiated to "u_decoder" is swept in optimizing("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v":74)
+WARN  (NL0002) : The module "instruction_memory" instantiated to "u_rom" is swept in optimizing("C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\src\cpu_top.v":65)
+[95%] Generate netlist file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\impl\gwsynthesis\microProc4.vg" completed
+[100%] Generate report file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc4\impl\gwsynthesis\microProc4_syn.rpt.html" completed
+GowinSynthesis finish

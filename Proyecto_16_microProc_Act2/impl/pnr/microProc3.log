@@ -1,0 +1,31 @@
+Reading netlist file: "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\gwsynthesis\microProc3.vg"
+Parsing netlist file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\gwsynthesis\microProc3.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\src\microProc3.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'clkin' was determined to be a clock but was not created.
+WARN  (TA1132) :  'clockout_d' was determined to be a clock but was not created.
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\pnr\microProc3.power.html" completed
+Generate file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\pnr\microProc3.pin.html" completed
+Generate file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\pnr\microProc3.rpt.html" completed
+Generate file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\pnr\microProc3.rpt.txt" completed
+Generate file "C:\Users\prueb\OneDrive\Desktop\Archivos del Tec\Tecnologico de Pachuca\5to Semestre\3. Arquitectura de Computadoras\1ra Unidad\Programas de Gowin\microProc3\impl\pnr\microProc3.tr.html" completed
+Thu Oct 22 19:34:55 2026
+

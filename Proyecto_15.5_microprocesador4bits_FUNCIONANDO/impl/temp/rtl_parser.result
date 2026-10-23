@@ -1,0 +1,76 @@
+[
+ {
+  "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+  "InstLine" : 1,
+  "InstName" : "cpu_top",
+  "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "cpu_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 53,
+    "InstName" : "u_pc",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/program_counter.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "program_counter"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 62,
+    "InstName" : "u_rom",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/instruction_memory.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "instruction_memory"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 68,
+    "InstName" : "u_decoder",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/instruction_decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "instruction_decoder"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 77,
+    "InstName" : "u_control",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/control_unit.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "control_unit"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 90,
+    "InstName" : "u_regfile",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/register_file.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "register_file"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 102,
+    "InstName" : "u_alu",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/alu.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "alu"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 111,
+    "InstName" : "u_io",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/io_ports.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "io_ports"
+   },
+   {
+    "InstFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+    "InstLine" : 125,
+    "InstName" : "u_divfrec",
+    "ModuleFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/div_frec.v",
+    "ModuleLine" : 24,
+    "ModuleName" : "divfrec"
+   }
+  ]
+ }
+]

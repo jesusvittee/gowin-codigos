@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Lut="4" T_Register="28(0)" T_Alu="23(0)" T_Lut="8(4)">
+ <SubModule name="instanceDivFrec01" Register="24" Alu="23" Lut="1" T_Register="24(24)" T_Alu="23(23)" T_Lut="1(1)"/>
+ <SubModule name="instanceCont4bits" Register="4" Lut="3" T_Register="4(4)" T_Lut="3(3)"/>
+</Module>

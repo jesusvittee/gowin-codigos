@@ -1,0 +1,30 @@
+Reading netlist file: "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\gwsynthesis\mult.vg"
+Parsing netlist file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\gwsynthesis\mult.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\src\mult.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'clk' was determined to be a clock but was not created.
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\pnr\mult.power.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\pnr\mult.pin.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\pnr\mult.rpt.html" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\pnr\mult.rpt.txt" completed
+Generate file "C:\Users\nicol\OneDrive\Documentos\AGOST  DIC 2026\ARQ COMPU\Programas de Gowin\mult\impl\pnr\mult.tr.html" completed
+Thu Oct 22 22:55:38 2026
+

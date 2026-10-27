@@ -2,39 +2,39 @@
  "Device" : "GW1NR-9C",
  "Files" : [
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/alu.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/alu.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/control_unit.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/control_unit.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/cpu_top.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/cpu_top.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/div_frec.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/div_frec.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/instruction_decoder.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/instruction_decoder.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/instruction_memory.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/instruction_memory.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/io_ports.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/io_ports.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/program_counter.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/program_counter.v",
    "Type" : "verilog"
   },
   {
-   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/src/register_file.v",
+   "Path" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/src/register_file.v",
    "Type" : "verilog"
   }
  ],
@@ -42,7 +42,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_16_microprocesador4bits FUNCIONANDO/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/nicol/OneDrive/Documentos/AGOST  DIC 2026/ARQ COMPU/Proyectos En Gowin/Proyecto_15.5_microprocesador4bits_FUNCIONANDO/impl/temp/rtl_parser.result",
  "Top" : "",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"
